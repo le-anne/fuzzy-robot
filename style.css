@@ -1,0 +1,19 @@
+.center {
+  margin: auto;
+  width: 350px;
+  background: black;
+  padding: 0px;  
+}
+
+body {
+  background-color: #1A1F16 !important;
+  color: #505F44 !important;
+}
+
+button {
+  background-color: #1E3F20 !important;
+}
+
+#btncalculate {
+  background-color: #4A7856 !important; 
+}
